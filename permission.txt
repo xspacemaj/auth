@@ -1,0 +1,2 @@
+#IP Address | Client Name | Expiry Date (Lifetime)
+1.2.3.4|MAJ VIP|Lifetime
