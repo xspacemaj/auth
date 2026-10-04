@@ -1,2 +1,3 @@
 #IP Address | Client Name | Expiry Date (Lifetime)
 1.2.3.4|MAJ VIP|Lifetime
+56.70.51.187|MAJSPACE IPO|Lifetime
